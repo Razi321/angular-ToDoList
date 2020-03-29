@@ -1,4 +1,4 @@
 
 quick start : 
-npm install 
-ng serve --open 
+# npm install 
+# ng serve --open 
